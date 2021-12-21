@@ -1,1 +1,1 @@
-### Sdk on Harmony Testnet
+### Sdk on Harmony Mainnet
